@@ -1,8 +1,5 @@
 package leonbet.integration.service;
 
-import lombok.Getter;
-
-@Getter
 public record SimpleLogService(boolean enabled) {
 
     public void info(String message, Object... args) {

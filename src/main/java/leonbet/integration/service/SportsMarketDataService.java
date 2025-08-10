@@ -24,7 +24,7 @@ public class SportsMarketDataService {
     private static final int MAX_SPORTS_COUNT = -1;
     private static final int MAX_REGIONS_COUNT = -1;
     private static final int MAX_LEAGUES_COUNT = -1;
-    private static final int MAX_MARKETS_COUNT = -1;
+    private static final int MAX_MARKETS_COUNT = 2;
 
     private static final int THREAD_POOL_SIZE = 3;
 
